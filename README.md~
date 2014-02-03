@@ -8,13 +8,18 @@ el, en, zh, vi, ca, it, ar, cs, et, gl, id, es, ru, az, nl, pt, no, tr, lt, th, 
 
 Dataset used for training: http://www.csse.unimelb.edu.au/~tim/etc/wikipedia-multi-v5.tgz
 
-References: 
+REFERENCES: 
+==================
 1. Marco Lui, Timothy Baldwin (2012) langid.py: An Off-the-shelf Language Identification Tool.
 2. McCallum and Nigam, 1998 A Comparison of Event Models for Naive Bayes Text Classification .
 3. Scikit-learn: Machine Learning in Python, Pedregosa et al., JMLR 12, pp. 2825-2830, 2011.
 
+REQUIREMENTS
+==================
+numpy, scikit-learn
+
 USAGE:
-================
+==================
 
 ----------------------------------
 Training the model :-

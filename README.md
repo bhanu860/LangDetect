@@ -16,7 +16,9 @@ REFERENCES:
 
 REQUIREMENTS
 ==================
-numpy, scikit-learn
+scikit-learn
+To installation see: http://scikit-learn.org/stable/install.html
+
 
 USAGE:
 ==================
